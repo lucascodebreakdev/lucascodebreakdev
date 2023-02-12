@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source projects and create my own projects.
 - 📫 Social:
   - Twitter: @lucascodebreak
-  - Instaram: @lucascodebreak
+  - Instagram: @lucascodebreak
   - DeviantArt: https://www.deviantart.com/lucascodebreak
   - ArtStation: https://www.artstation.com/lucascodebreak
 
