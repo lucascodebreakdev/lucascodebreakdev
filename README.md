@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucascodebreakdev
-- 👀 I’m interested in Game Dev and Digital Illustration
+- 👀 I’m interested in Game Development and Digital Illustration
 - 🌱 I’m currently learning Java and Musical Composition
 - 💞️ I’m looking to collaborate on Open Source projects and create my own projects.
 - 📫 Social:
